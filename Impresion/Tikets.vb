@@ -18,7 +18,7 @@ Public Class ticket
     Public contador As Integer = 0
 
     Public CaracteresMaximos As Integer = 35
-    Public CaracteresMaximosDescripcion As Integer = 20
+    Public CaracteresMaximosDescripcion As Integer = 50
 
     Public imageHeight As Integer = 0
 
