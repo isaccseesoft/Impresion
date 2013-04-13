@@ -107,7 +107,7 @@ Public Class ticket
     End Sub
 
     Public Sub AnadirElemento(ByVal cantidad As String, ByVal elemento As String, ByVal precio As String)
-
+        'Tome comentario
         Dim NuevoElemento As OrdenarElementos = New OrdenarElementos
         '''''items.Add(newitem. 
         Elementos.Add(NuevoElemento.GenerarElemento(cantidad, elemento, precio))
